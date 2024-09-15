@@ -9,6 +9,6 @@ If I had more time, I would:
 
 ## Screenshots of the Dashboard Website
 
-![Screenshot 1](screenshots/Dashboard_English_Progress.jpg)
-![Screenshot 2](screenshots/Dashboard_German_Progress.jpg)
-![Screenshot 3](screenshots/Dashboard_English.jpg)
+![Screenshot 1](Screenshots/Dashboard_English_Progress.jpg)
+![Screenshot 2](Screenshots/Dashboard_German_Progress.jpg)
+![Screenshot 3](Screenshots/Dashboard_English.jpg)
