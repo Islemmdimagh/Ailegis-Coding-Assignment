@@ -2,9 +2,10 @@
  
 If I had more time, I would:
 - Make the scraper asynchronous to speed up the process
-- Improve the PDF extraction (not all files are getting extracted)
+- Improve the PDF extraction (not all files are getting extracted) and naming of PDFs
 - Improve the design of the Dashboard
 - Fix #identifiers for subsections
+- Write tests
 
 
 
